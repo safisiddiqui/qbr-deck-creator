@@ -2,7 +2,7 @@
 
 Turn a few notes about a customer account into a presentation-ready Quarterly Business Review deck.
 
-**[https://safisiddiqui.github.io/qbr-deck-creator](#)** 
+**[https://safisiddiqui.github.io/qbr-deck-creator/](#)** 
 
 ---
 
