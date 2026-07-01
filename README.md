@@ -2,7 +2,7 @@
 
 Turn a few notes about a customer account into a presentation-ready Quarterly Business Review deck.
 
-**[Live demo](#)** ← replace this link with your GitHub Pages URL once it's live
+**[https://safisiddiqui.github.io/qbr-deck-creator](#)** 
 
 ---
 
