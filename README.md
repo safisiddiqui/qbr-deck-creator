@@ -1,4 +1,4 @@
-# Cadence — QBR deck creator
+# Cadence - QBR deck creator
 
 Turn a few notes about a customer account into a presentation-ready Quarterly Business Review deck.
 
